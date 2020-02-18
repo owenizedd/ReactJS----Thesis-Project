@@ -3,8 +3,7 @@ Thesis / Final Project for Bachelor's Degree in Informatics Engineering, Built a
 
 Recognisight website, here's the link: http://157.230.43.112:3000/
 
-To access the website in order to navigate through the front-end side, you can register on the website.
-or use this dummy account:
+To access the website in order to navigate through the front-end side, you can register on the website, or use this dummy account:
 
 Username: ryanowen
 
